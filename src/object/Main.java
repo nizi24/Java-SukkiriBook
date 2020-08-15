@@ -7,5 +7,9 @@ public class Main {
     h.sleep();
     Hero h2 = new Hero();
     System.out.println(h2.name);
+    SuperHero sh = new SuperHero("foo");
+    sh.sleep();
+    sh.fly();
+    sh.land();
   }
 }
