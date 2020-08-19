@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"zissen","c":"Book","l":"Book()","url":"%3Cinit%3E()"},{"p":"zissen","c":"Book","l":"clone()"},{"p":"zissen","c":"Book","l":"compareTo(Object)","url":"compareTo(java.lang.Object)"},{"p":"zissen","c":"Book","l":"equals(Object)","url":"equals(java.lang.Object)"},{"p":"zissen","c":"Book","l":"hashCode()"}]
